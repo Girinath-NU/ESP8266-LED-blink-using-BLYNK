@@ -37,6 +37,9 @@ Copy the Auth Token provided by Blynk and replace it in the code.
 Modify the code:
 Replace the following placeholders in the code with your details:
 
+## Reference
+https://youtu.be/ehu3VlobYfI?si=bnwhWBKLgHAhKA-r 
+
 Wifi Username: Your Wi-Fi SSID (network name).
 Wifi password: Your Wi-Fi password.
 BLYNK_AUTH_TOKEN: The Auth Token generated from the Blynk app.
